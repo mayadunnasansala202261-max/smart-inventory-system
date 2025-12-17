@@ -68,6 +68,7 @@ Here’s a visual walkthrough of the project:
 | ![s6](s6.PNG) | **Stock Page** – Stock In / Stock Out with history logs                               |
 | ![s7](s7.PNG) | **Sales Page** – Add sales, view history, and auto-update stock                       |
 | ![s8](s8.PNG) | **Reports Page** – Charts, low-stock alerts, top-selling products, PDF export         |
+| ![s9](s9.PNG) | **Downloaded reports** – Downloaded reports                                           |
 
 ---
 
